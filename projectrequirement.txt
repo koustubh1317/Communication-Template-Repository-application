@@ -1,0 +1,20 @@
+documents includes - sanction letter, welcome letter, loan agreement, statement of accounts, No objection certificate, 
+legal notices etc.
+Case Requirement:
+• Build an application for creating letters/document templates as well as 
+editing any existing templates
+• The application should also include a maker-checker mechanism, i.e., after the 
+creation of the template, submit it to internal departments (legal, marketing, 
+compliance, business head) for approval 
+• Post the approval, the template would be available for usage/consumption 
+• The template should have placeholders provisioned to include run-time 
+attributes related to the customer. This would include:
+1. Customer Name
+2. Loan Agreement Number
+Classification: Internal
+3. Asset Details
+4. Loan Details
+5. Loan Schedule Details
+6. Other information like Guarantor / Insurance / Credit Shield, etc.
+• The application should have the ability to invoke these templates through 
+APIs to create an actual document which can then be e-mailed or downloade
